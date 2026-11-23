@@ -4,7 +4,7 @@ public class LatihanSatu {
     public static void main(String[] args) {
 
         //Membuat object JFrame
-        JFrame frame = new JFrame("Aplikasi Saya");
+        JFrame frame = new JFrame("My Exercise");
 
         //Mengatur ukuran jendela
         frame.setSize(600, 400);
